@@ -13,3 +13,5 @@ elif(quantRodas >= 4 and quantPessoas > 8):
     print('Categoria D')
 else:
     print('Categoria F')
+
+#Alteração para teste
