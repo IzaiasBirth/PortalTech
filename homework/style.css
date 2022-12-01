@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+div a{
+    color:brown;
+    text-decoration: dashed;
+    background-color: aqua;
+}
+.caixa{
+    background-color: aquamarine;
+}
+#ultima-caixa{
+    background-color: blueviolet;
+}
+div{
+    background-color: cadetblue;
+}
+p{
+    background-color: grey;
+}
